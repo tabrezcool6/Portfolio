@@ -370,13 +370,13 @@ hr {
   cursor: pointer;
   transition: 0.2s ease-in-out;
 }
-.projects .projects-content .card:hover {
+/* .projects .projects-content .card:hover {
   background-color: var(--primary-color);
   border-radius: 12px;
   color: white;
-}
+} */
 .projects .projects-content .card img {
-  width: 200px;
+  width: 150px;
 }
 .projects .projects-content .card h3 {
   font-family: "Ubuntu", sans-serif;
